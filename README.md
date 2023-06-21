@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsRahul007
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Note.js
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on (right now nothing)
 - 📫 How to reach me? call me on +917478386405
 
