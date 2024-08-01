@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul ghosh" height="30" width="40" /></a>
-<a href="https://fb.com/rahul ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul ghosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-ghosh-123624273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-ghosh-123624273" height="30" width="40" /></a>
+<a href="https://fb.com/people/rahul-ghosh/pfbid02fp1xpurrxzxeasqza4hk5yvjdevockqx7exverbdhax3zsdkherb8egk8zgple5jl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="people/rahul-ghosh/pfbid02fp1xpurrxzxeasqza4hk5yvjdevockqx7exverbdhax3zsdkherb8egk8zgple5jl/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
