@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [E-Card](https://e-card-itsrahul007s-projects.vercel.app/)
 
-- 🌱 I’m currently learning **my sql**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React, Next.js, mongodb, express, node**
 
